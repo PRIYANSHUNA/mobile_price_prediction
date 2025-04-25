@@ -85,15 +85,6 @@ The dataset consists of the following features:
    python scripts/evaluate.py
    ```
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push them to your branch.
-4. Submit a pull request.
-
 ## Contact
 
 For questions or feedback, please contact [Priyanshu Namdev](priyanshnamdev123@gmail.com).
